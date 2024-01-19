@@ -128,9 +128,9 @@ h4 {
 li {
   margin: 8px 0 8px 0;
 }
-aside h3 {
-  /* color: #bcfd4c; */
-}
+/* aside h3 {
+  /* color: #bcfd4c; 
+} */
 aside h2 {
   /* color: #bcfd4c; */
   text-transform: capitalize;
@@ -145,7 +145,7 @@ img {
   margin-left: auto;
   display: box;
   height: auto;
-  opacity: 0;
+  /* opacity: 0; */
   width: 1.5in;
 }
 
